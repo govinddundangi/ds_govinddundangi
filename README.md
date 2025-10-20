@@ -1,2 +1,2 @@
 # ds_govinddundangi
-“Web3 Trading Data Science Assignment”
+“Data Science Assignment for Web3 Trading Team”
